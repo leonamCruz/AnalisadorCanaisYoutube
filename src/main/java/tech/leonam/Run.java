@@ -5,8 +5,8 @@ import java.util.Collections;
 import java.util.regex.Pattern;
 
 public class Run {
-    private ArrayList<String> url;
-    private ArrayList<Channel> channels;
+    private final ArrayList<String> url;
+    private final ArrayList<Channel> channels;
 
     public Run(ArrayList<String> url) throws InterruptedException {
         this.url = url;

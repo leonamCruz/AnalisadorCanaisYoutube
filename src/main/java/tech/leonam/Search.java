@@ -6,8 +6,8 @@ import org.openqa.selenium.WebDriver;
 public class Search {
     private static final String X_PATH_NOME = "//*[@id=\"text\"]";
     private static final String X_PATH_INSCRITOS = "//*[@id=\"subscriber-count\"]";
-    private WebDriver driver;
-    private String url;
+    private final WebDriver driver;
+    private final String url;
     public Search(String url){
         driver = SeleniumConfig.config();
         this.url = url;

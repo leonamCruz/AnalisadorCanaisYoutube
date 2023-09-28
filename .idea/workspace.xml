@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c5c2a95-14e8-49ef-b9e8-99237f13b8d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Channel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Ordenador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/SeleniumConfig.java" afterDir="false" />
+    <list default="true" id="7c5c2a95-14e8-49ef-b9e8-99237f13b8d0" name="Changes" comment="Init Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/leonam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/leonam/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/leonam/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Search.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -55,6 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "/home/leonam/IdeaProjects/Analisador/src/main/java/tech/leonam/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -102,11 +98,24 @@
       <updated>1695923581609</updated>
       <workItem from="1695923582592" duration="3096000" />
       <workItem from="1695927215647" duration="624000" />
-      <workItem from="1695927933727" duration="4597000" />
+      <workItem from="1695927933727" duration="5097000" />
     </task>
+    <task id="LOCAL-00001" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1695932742480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695932742480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
   </component>
 </project>
