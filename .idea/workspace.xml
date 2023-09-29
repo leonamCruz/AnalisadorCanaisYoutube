@@ -7,11 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c5c2a95-14e8-49ef-b9e8-99237f13b8d0" name="Changes" comment="Init Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tech/leonam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Main.java" afterDir="false" />
+    <list default="true" id="7c5c2a95-14e8-49ef-b9e8-99237f13b8d0" name="Changes" comment="Organizacao">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/leonam/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tech/leonam/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tech/leonam/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/leonam/Search.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/home/leonam/IdeaProjects/Analisador/src/main/java/tech/leonam/Main.java",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/leonam/IdeaProjects/Analisador/src/main/java/tech/leonam/Main.java&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tech.leonam.Main" />
@@ -98,7 +98,9 @@
       <updated>1695923581609</updated>
       <workItem from="1695923582592" duration="3096000" />
       <workItem from="1695927215647" duration="624000" />
-      <workItem from="1695927933727" duration="5097000" />
+      <workItem from="1695927933727" duration="6415000" />
+      <workItem from="1695950484389" duration="753000" />
+      <workItem from="1695954353516" duration="662000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -108,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695932742480</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Organizacao">
+      <option name="closed" value="true" />
+      <created>1695933302894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695933302894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
+    <MESSAGE value="Organizacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizacao" />
   </component>
 </project>

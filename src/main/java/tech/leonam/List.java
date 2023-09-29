@@ -1,7 +1,8 @@
 package tech.leonam;
 
 public record List() {
-    static String[] urls = {"https://www.youtube.com/channel/UCnOZBkQgiuOmWBFCQ9GdTrQ",
+    static String[] urls = {
+            "https://www.youtube.com/channel/UCnOZBkQgiuOmWBFCQ9GdTrQ",
             "https://www.youtube.com/@PontoemComum",
             "https://www.youtube.com/@GMKrikor",
             "https://www.youtube.com/@AguiarDev91",
@@ -9,5 +10,7 @@ public record List() {
             "https://www.youtube.com/@Aleatoriamente1",
             "https://www.youtube.com/@Aquelescanaldecasaletc",
             "https://www.youtube.com/@AtilaIamarino",
-            "https://www.youtube.com/@attekitadev"};
+            "https://www.youtube.com/@attekitadev",
+            "https://www.youtube.com/@GMEvandroBarbosa"
+    };
 }

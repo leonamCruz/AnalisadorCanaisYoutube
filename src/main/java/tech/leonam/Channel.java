@@ -12,8 +12,8 @@ public class Channel implements Comparable<Channel>{
 
     @Override
     public int compareTo(Channel o) {
-        long subscriberOne = Long.parseLong(this.subscribers);
-        long subscriberTwo = Long.parseLong(o.getSubscribers());
+        var subscriberOne = Long.parseLong(this.subscribers);
+        var subscriberTwo = Long.parseLong(o.getSubscribers());
 
         return Long.compare(subscriberTwo, subscriberOne);
     }

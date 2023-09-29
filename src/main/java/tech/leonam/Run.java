@@ -31,11 +31,14 @@ public class Run {
     }
 
     private void print() {
+        var i = 1;
         for(var thisTime : channels){
+            System.out.println("Posição em relação os inscritos: " + i);
             System.out.println("Canal: " + thisTime.getName());
             System.out.println("Inscritos: " + thisTime.getSubscribers());
             System.out.println("URL: " + thisTime.getUrl());
             System.out.println("----------------------------------------------------------");
+            i++;
         }
     }
 
